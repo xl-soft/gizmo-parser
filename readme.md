@@ -25,7 +25,7 @@
 <h2 id="build"><strong>🔨 Build</strong></h2>
 
 ```
-    deno compile -A main.ts
+deno compile -A main.ts
 ```
 
 <h2 id="usage"><strong>🔨 Usage</strong></h2>
@@ -33,7 +33,7 @@
 ### From file
 
 ```
-    deno run -A main.ts
+deno run -A main.ts
 ```
 
 ### From build
