@@ -1,7 +1,7 @@
 <br/>
 <br/>
 <div align="middle">
-    <img src="https://github.com/xl-soft/gizmo-parser/assets/104740977/656979d4-e2c8-4d25-b169-7a323e98afca" height=120>
+    <img src="https://github.com/xl-soft/gizmo-parser/assets/104740977/656979d4-e2c8-4d25-b169-7a323e98afca" height=100>
 </div>
 
 #
@@ -26,7 +26,7 @@
 
 <h2 id="license"><strong>📜 License</strong></h2>
 
-[MIT](https://github.com/xl-soft/ui/blob/master/LICENSE.md)
+[MIT](https://github.com/xl-soft/ui/blob/master/LICENSE)
 
 <br/>
 <div align="center">
