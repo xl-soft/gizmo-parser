@@ -24,6 +24,35 @@
 
 <h2 id="build"><strong>🔨 Build</strong></h2>
 
+```
+    deno compile -A main.ts
+```
+
+<h2 id="usage"><strong>🔨 Usage</strong></h2>
+
+### From file
+
+```
+    deno run -A main.ts
+```
+
+### From build
+
+```
+ ./main.exe
+```
+
+You can also start script just from executable
+
+### Attributes
+
+Set Gizmo Server api
+
+```
+ ./main.exe 123.45.67.89
+```
+
+
 <h2 id="license"><strong>📜 License</strong></h2>
 
 [MIT](https://github.com/xl-soft/gizmo-parser/blob/master/LICENSE)
