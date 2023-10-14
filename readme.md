@@ -26,7 +26,7 @@
 
 <h2 id="license"><strong>📜 License</strong></h2>
 
-[MIT](https://github.com/xl-soft/ui/blob/master/LICENSE)
+[MIT](https://github.com/xl-soft/gizmo-parser/blob/master/LICENSE)
 
 <br/>
 <div align="center">
